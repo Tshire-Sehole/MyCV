@@ -4,22 +4,21 @@ Here's a breakdown of what each part of the CSS is doing: */
 .container {
     max-width: 800px;
     padding: 10px;
-    background:burlywood;
+    background:rgb(12, 216, 206);
     box-shadow: 0 0 100px rgba(0,0,0,0.1);
     border-radius: 50px;
     margin-top: 50px;
     border:dotted;
-
 }
 
 h1 {
     text-align: center;
-    margin-bottom: 40px;
+    margin-bottom: 35px;
 }
 
 h2 {
     margin-top: 40px;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
     border-bottom: 2px solid #007bff;
     padding-bottom: 10px;
     
@@ -27,11 +26,11 @@ h2 {
 
 p {
     text-align: justify;
-    color:darkblue;
+    color:black;
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 img {
